@@ -1,0 +1,53 @@
+Zhang Jason
+Group 9
+Biology
+2/19/2025
+
+# Vitamin D
+
+## Introduction
+Vitamin D is a group of structurally related fat-soluble compounds among which Cholecalciferol (Vitamin D3) and Ergocalciferol (Vitamin D2) are the most important compounds. Classified as A11CC according to the ATC code, it’s used to treat rickets, osteoporosis, osteomalacia and Vitamin D deficiency, as its main purpose is to increase intestinal absorption of Calcium, Magnesium and Phosphate. Unlike the other 12 vitamin compounds, Vitamin D is only conditionally essential. It is obtained by exposure to sunlight, as the synthesis of Choleciferol is in the lower layers of the skin epidermis through a photochemical reaction with Ultraviolet B light, similar to how plants carry out photosynthesis and how we obtain vision. It is also obtained through diet and supplements such as fatty fish flesh, cow’s milk/milk substitutes and some breakfast cereal. In this report, we will provide a basic introduction to Vitamin D, its functions, harms of excess consumption and deficiency, and types of food that contain a lot of it. This report will serve as a basis for further expansion onto the topic nutrition, biochemistry and organic chemistry
+
+## Functions of Vitamin D:
+Cholecalciferol is converted to calcifediol (25-hydroxycholecalciferol), while Ergocalciferol is converted to ercalcidiol (25-hydroxyergocalciferol) in the liver, they are collectively named 25-hydroxyvitamin D (25(OH)D), it’s called that because both calcifediol and ercalidiol are 25-hydroxyl groups with Vitamin D2 or 3 at the end of the names, the nomenclature of these chemicals are just wonderful right? Calcifediol is then hydroxylated (i.e. enzymes called hydroxylases insert an Oxygen atom in a C-H bond) by the enzyme 1α-Hydroxylase in the kidneys and certain immune cells into calcitriol (1,25-dihydroxycholecalciferol/ 1,25(OH)2D), which is a biologically active of Vitamin D and attaches to the Vitamin D receptors which enables it to act as a transcription factor (sequence-specific DNA-binding factor) which is a protein that controls the rate of transcription of genetic information from the DNA to the mRNA by binding to a specific DNA sequence (no I don’t know what that means but it sounds smart, go study molecular biology or something). The VDR acting as a TF modulates the gene expression of transport proteins involved in the calcium absorption in the intestine. All this fancy talk to say that Vitamin D (the biologically active 1,25(OH)2D) is crucial in maintaining calcium and phosphorus levels in the blood thus supporting bone health. Which in layman’s terms is, consume vitamin D, bone go stronk. It also regulates cell proliferation and differentiation and also influences the immune system, in that white blood cells (the thing that you hear smart people say helps fight COVID) such as monocytes, T and B lymphocytes have VDRs being expressed. All this to say that without Vitamin D your immune system, bones, cell division and differentiation would be impossible. With that being said, let us take a look at vitamin D deficiency.
+
+## Vitamin D deficiency:
+There is no consensus on defining vitamin D deficiency, the US institute of medicine dietary reference Intake Committee states that serum 25(OH)D concentration levels below 30 nmol/L significantly increases the risk of vitamin D deficiency. Vitamin D deficiency in children is a cause of rickets, impeded growth of bones and soft, weak, deformed long bones. Common symptoms of rickets are, incorrect growth patterns, muscle weakness, bone pain, deformities in joints. However rickets are extremely rare and usually children with vitamin D deficiency will experience muscle pain. For adults, vitamin D deficiency symptoms include fatigue, bone pain, muscle weakness, muscle aches etc. and mood changes.
+
+## Excess Vitamin D:
+Consuming too much vitamin D can lead to elevated blood level, calcium levels, gastrointestinal symptoms, which includes nausea, vomiting, constipation, diarrhoea and poor appetite, altered mental status and kidney complications. 
+Foods that contain a lot of vitamin D: 
+Of course studies show that foods that come from fish contain a lot of Vitamin D, i.e. fish flesh like sardines, herrings, fatty fish and canned tuna, egg yolks, mushrooms and Vitamin D fortified foods such as milks (cow’s milk, soy milk/ other milk alternatives), orange juice, cereal and oatmeal.
+
+## Conclusion: 
+In conclusion, vitamin D is an essential part of our daily diet. It not only helps with calcium and phosphate regulation, immune function, cell proliferation and cell differentiation, but also prevents rickets, muscle pain, mood disorders etc. Hopefully from this report you have learned a lot about Vitamin D.    
+## Appendix:
+
+### Sources:
+
+https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792
+
+- Mayo Clinic 
+
+https://en.wikipedia.org/wiki/Vitamin_D
+
+- Wikipedia - Vitamin D
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3968073/
+
+- Vitamin D Metabolism, Mechanism of Action, and Clinical Applications (PMD)
+
+https://www.wikipathways.org/pathways/WP1531.html
+
+- Vitamin D Metabolism (Wikipathways)
+
+https://www.wikipathways.org/pathways/WP5397.html
+
+-  Vitamin A1 and A5/X pathways (WP5397) (Wikipathways)
+
+
+
+
+
+
+
